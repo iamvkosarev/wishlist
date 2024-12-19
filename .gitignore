@@ -25,3 +25,7 @@ go.work.sum
 .env
 
 .idea/
+
+back/config/
+
+back/storage/
